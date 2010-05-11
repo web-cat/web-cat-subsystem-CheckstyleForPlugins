@@ -19,11 +19,11 @@
  |  along with Web-CAT; if not, see <http://www.gnu.org/licenses/>.
 \*==========================================================================*/
 
-package net.sf.webcat.checkstyleforplugins;
+package org.webcat.checkstyleforplugins;
 
+import org.webcat.core.Application;
+import org.webcat.core.Subsystem;
 import com.webobjects.foundation.*;
-import net.sf.webcat.core.Application;
-import net.sf.webcat.core.Subsystem;
 
 //-------------------------------------------------------------------------
 /**
